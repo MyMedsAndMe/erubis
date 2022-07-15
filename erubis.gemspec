@@ -6,6 +6,7 @@
 ###
 
 require 'rubygems' unless defined?(Gem)
+require 'erubis'
 
 spec = Gem::Specification.new do |s|
   ## package information
