@@ -1,3 +1,11 @@
+# erubis
+
+Erubis is an fast and extensible eRuby implementation
+
+# Reason for fork
+
+For Ruby 3 upgrade
+
 = README
 
 release::	$Release$
