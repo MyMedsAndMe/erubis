@@ -6,6 +6,8 @@ Erubis is an fast and extensible eRuby implementation
 
 For Ruby 3 upgrade
 
+# Oficial readme
+
 = README
 
 release::	$Release$
